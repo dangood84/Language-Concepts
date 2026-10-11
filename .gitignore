@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+*.swp
+*.swo
+
+# C, C++, Fortran, and Pascal build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.mod
+*.smod
+*.ppu
+*.or
+*.rst
+*.compiled
+
+# Binaries produced by the examples' documented compile commands
+/Pointers/pointers
+/Classes-OOP/bank
+/Classes-OOP/BankAccount
+
+# Java
+*.class
+
+# JavaScript and TypeScript
+node_modules/
+dist/
+coverage/
+.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
